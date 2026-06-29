@@ -2,64 +2,43 @@
 
 # JOSE DIAZ
 
-<p style="font-size: 16px; color: #666; margin-top: 8px; letter-spacing: 1px; font-family: 'Segoe UI', sans-serif;">Developer | Creator | Builder</p>
+Developer & Creative Builder
 
 </div>
 
 ---
 
-## ABOUT
+## What I Do
 
-Passionate developer focused on building engaging digital experiences. Currently working on UI/UX projects and bot development with a focus on interactive design and functionality.
-
----
-
-## FEATURED PROJECTS
-
-| Project | Language | Description |
-|---------|----------|-------------|
-| [Verbal Hub UI Previews](https://github.com/josediaz765/verbal-hub-uipreviews) | HTML | Interactive UI component library and modern design patterns |
-| [Verbal Hub Bot Fansigns](https://github.com/josediaz765/verbal-hub-bot-fansigns-) | JavaScript | Bot for managing fan sign interactions and community engagement |
-| [XLQP Dances](https://github.com/josediaz765/XLQP-dances) | Collection | Comprehensive dance choreography and resource library |
-| [Hi](https://github.com/josediaz765/Hi) | JavaScript | Active project with continuous development |
+Building interactive experiences and digital tools. Focus on UI/UX design, bot development, and web components.
 
 ---
 
-## TECHNICAL SKILLS
+## Current Work
 
-**Frontend Development**
-- HTML, CSS, JavaScript
-- UI Design & User Experience
-- Interactive Components
-
-**Backend Development**
-- Bot Development
-- JavaScript/Node.js
-- Integration & Automation
+| Project | Details |
+|---------|---------|
+| **Verbal Hub UI Previews** | UI component library with interactive design patterns |
+| **Verbal Hub Bot Fansigns** | Community engagement bot for fan interactions |
+| **XLQP Dances** | Choreography collection and resources |
 
 ---
 
-## QUICK STATS
+## Skills
 
-- **5** Active Repositories
-- **Actively Building** New Projects
-- **Member Since** January 2026
+**Frontend:** HTML, CSS, JavaScript, UI/UX Design, Interactive Components
 
----
-
-## RECENT ACTIVITY
-
-- Working on interactive UI previews and components
-- Developing bot solutions for community engagement
-- Building scalable digital experiences
-- Collaborating on creative projects
+**Backend:** Bot Development, JavaScript, Automation
 
 ---
 
-<div align="center" style="margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee;">
+## Projects
 
-### Let's Build Something Great Together
+- [Verbal Hub UI Previews](https://github.com/josediaz765/verbal-hub-uipreviews)
+- [Verbal Hub Bot Fansigns](https://github.com/josediaz765/verbal-hub-bot-fansigns-)
+- [XLQP Dances](https://github.com/josediaz765/XLQP-dances)
+- [Hi](https://github.com/josediaz765/Hi)
 
-[View All Repositories](https://github.com/josediaz765?tab=repositories) | Open to Collaboration
+---
 
-</div>
+Always interested in collaborating on creative projects.
